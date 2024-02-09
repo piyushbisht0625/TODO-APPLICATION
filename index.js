@@ -15,6 +15,7 @@ app.use("/api/v1", todoRoutes);
 
 // Connect to the database
 const dbConnect = require("./config/database");
+
 dbConnect();
 
 // Define the PORT
