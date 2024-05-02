@@ -7,3 +7,4 @@ Implemented RESTful APIs to efficiently handle tasks such as creating, deleting,
 Ensured seamless integration with the database for smooth data management and retrieval.
 
 Utilized Express to build robust APIs for a user-friendly experience, allowing easy access to data.
+ 
