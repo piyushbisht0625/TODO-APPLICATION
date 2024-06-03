@@ -1,4 +1,4 @@
- # TODO-APPLICATION
+  # TODO-APPLICATION
 
 Developed a backend for a To-Do app using Node.js, Express, and MongoDB, enabling CRUD operations like creating new entries, deleting them, and fetching all records.
 
