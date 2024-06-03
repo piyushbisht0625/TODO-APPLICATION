@@ -1,7 +1,5 @@
-  //impoert  the model
-const Todo = require("../models/Todo");
 
-//  define route handler
+const Todo = require("../models/Todo");
 
 exports.deleteTodo = async(req,res) =>{
     try{
