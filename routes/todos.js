@@ -8,7 +8,7 @@ const {updateTodo} = require("../controllers/updateTodo");
 const {deleteTodo} = require("../controllers/deleteTodo");    
 
 
-
+ 
 // define API routes
 router.post("/createTodo", createTodo); 
 router.get("/getTodo", getTodo);
