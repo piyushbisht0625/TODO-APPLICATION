@@ -6,7 +6,7 @@ const dbConnect =() =>{
         //useUnifiedTopology:true,
     })
 
-    .then( () => console.log("DB Connection is Successful" ))
+    .then( () => console.log("DB Connection is Successful" )) 
     .catch( (error) =>{
           
         console.log("Error in Connection");
