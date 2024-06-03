@@ -1,9 +1,5 @@
- 
-//Controller define Business Logic
-//impoert  the model
-const Todo = require("../models/Todo");
 
-//  define route handler
+const Todo = require("../models/Todo");
 
 exports.createTodo = async(req,res) =>{
     try{
